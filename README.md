@@ -1,5 +1,6 @@
 # startup_namer
 
+Completed a startup name generator with Flutter. Work with iOS and Android. 
 A new Flutter project.
 
 ## Getting Started
