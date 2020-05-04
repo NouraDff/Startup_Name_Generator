@@ -1,7 +1,8 @@
 # startup_namer
 
-Completed a startup name generator with Flutter. Work with iOS and Android. 
-A new Flutter project.
+This the result of a tutorial I followed in order to familiarised myself to Flutter.
+This is a simple mobile app that generate startup name. It works with iOS and Android. 
+
 
 ## Getting Started
 
